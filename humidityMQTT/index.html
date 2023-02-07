@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<!-- //<html lang="en"> -->
+
+<head>
+    <title>Final assignment</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <script src="app.js" type="text/javascript">    </script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.6.0/dist/chart.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body onload="getData(ALLDATA)">
+    <div>
+        <div class="clicked">
+            <button id="view1" type="button" onclick="getData(ALLDATA),color('view1')">Last 30 Measurement</button>
+            <button id="view2" type="button" onclick="getData(last20WindSpeed),color('view2')">Last 20 Wind Speed</button>
+            <button id="view3" type="button" onclick="getData(last20Temperature),color('view3')">Last 20 Temperature</button>
+            <button id="view4" type="button" onclick="view4(last20WindSpeed),color('view4')">Others Measurements</button>
+            <button id="view5" type="button" onclick="myInfor(),color('view5')">Author Information</button>
+        </div>
+    </div>
+    <div id="table"></div>
+
+    <div>
+        <canvas id="myChart" width="400" height="400"></canvas>
+    </div>
+</body>
+
+</html>
