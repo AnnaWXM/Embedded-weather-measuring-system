@@ -1,6 +1,6 @@
 # Mobile Andriod App
 
-A real-time weather monitoring embedded system that fetch weather signal and visualize by website.
+Created a mobile app with realistic weather information.
 
 
 ## Information
