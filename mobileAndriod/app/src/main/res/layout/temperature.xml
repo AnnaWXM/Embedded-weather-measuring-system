@@ -13,7 +13,7 @@
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="32dp"
         android:onClick="toMain"
-        android:text="back to main"
+        android:text="@string/backtomain"
         app:layout_constraintBottom_toTopOf="@+id/toAuthor2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -27,7 +27,7 @@
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="25dp"
         android:onClick="toAuthor"
-        android:text="Author Information"
+        android:text="@string/author"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -40,7 +40,7 @@
         android:layout_marginStart="50dp"
         android:layout_marginTop="30dp"
         android:layout_marginEnd="50dp"
-        android:text="Temperature"
+        android:text="@string/temperature"
         android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -52,7 +52,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="60dp"
         android:layout_marginTop="50dp"
-        android:text="Real-time:"
+        android:text="@string/realtime"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/temTitle" />
@@ -63,7 +63,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
         android:layout_marginEnd="130dp"
-        android:text="TextView"
+        android:text="@string/TextView"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/temTitle" />
@@ -74,7 +74,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:layout_marginEnd="130dp"
-        android:text="TextView"
+        android:text="@string/TextView"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/realTimeTem" />
@@ -85,7 +85,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:layout_marginEnd="130dp"
-        android:text="TextView"
+        android:text="@string/TextView"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/minTam" />
@@ -96,7 +96,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:layout_marginEnd="130dp"
-        android:text="TextView"
+        android:text="@string/TextView"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/maxTem" />
@@ -107,7 +107,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="60dp"
         android:layout_marginTop="30dp"
-        android:text="Minimum"
+        android:text="@string/min"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/realTimeTitle" />
@@ -118,7 +118,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="60dp"
         android:layout_marginTop="30dp"
-        android:text="Maximum"
+        android:text="@string/max"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/min" />
@@ -129,7 +129,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="60dp"
         android:layout_marginTop="30dp"
-        android:text="Feels_like"
+        android:text="@string/feels"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/max" />

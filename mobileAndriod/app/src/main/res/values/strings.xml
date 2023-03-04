@@ -10,8 +10,8 @@
     <string name="max">maximum</string>
     <string name="feels">feels_like</string>
     <string name="name">Name: Xiaomin Wu</string>
-    <string name="email">Email</string>
-    <string name="phone">Phone</string>
+    <string name="email">Email: xiaomininfi@gmail.com</string>
+    <string name="phone">Phone: +358 466620421</string>
     <string name="git" translatable="false">GitHub</string>
     <string name="togit">to my github</string>
     <string name="backtomain">back to main</string>
