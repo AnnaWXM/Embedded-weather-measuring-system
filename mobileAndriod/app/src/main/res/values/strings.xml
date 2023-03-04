@@ -16,5 +16,6 @@
     <string name="togit">to my github</string>
     <string name="backtomain">back to main</string>
     <string name="author">author information</string>
+    <string name="TextView">TextView</string>
 
 </resources>

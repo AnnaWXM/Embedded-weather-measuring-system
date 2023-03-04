@@ -1,6 +1,6 @@
 # Embedded-weather-measuring-system
 
-A real-time weather monitoring embedded system that fetch weather signal and visualize by website.
+A real-time weather monitoring embedded system that fetch weather signal and visualize by website and mobile app.
 
 
 ## Weather Measuring System.
@@ -19,6 +19,19 @@ Built a user-friendly website for data visualization.
 Technology: HTTP, CSS, JavaScript, Cloud Database
 
 Project date: April 2022
+
+
+## Andriod Weather App
+
+Created a mobile app with realistic weather information.
+
+Three activities are implemented in the application and are not lost in the activity lifecycle.
+
+All strings were localized for 2 languages, Chinese and Finnish.
+
+Used implicit intent to browse out of your application to my GitHub.
+
+Project date: March 2023
 
 
 ## More projects you may be interested
