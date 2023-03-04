@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="tampere">Tampere</string>
+    <string name="temperature">Temperature</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="overcast_clouds">overcast clouds</string>
+    <string name="realtime">Real-time</string>
+    <string name="min">minimum</string>
+    <string name="max">maximum</string>
+    <string name="feels">feels_like</string>
+    <string name="name">Name: Xiaomin Wu</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="git" translatable="false">GitHub</string>
+    <string name="togit">to my github</string>
+    <string name="backtomain">back to main</string>
+    <string name="author">author information</string>
+
+</resources>

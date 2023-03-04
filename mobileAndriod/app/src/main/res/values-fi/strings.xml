@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="tampere">Tampere</string>
+    <string name="temperature">Lämpötila</string>
+    <string name="pressure">Paine</string>
+    <string name="humidity">Kosteus</string>
+    <string name="overcast_clouds">Pilvistä</string>
+    <string name="realtime">Oikea aika</string>
+    <string name="min">Minimi</string>
+    <string name="max">Maksimi</string>
+    <string name="feels">Lämpötila</string>
+    <string name="name">Nimi: Xiaomin Wu</string>
+    <string name="email">Sähköposti</string>
+    <string name="phone">Puhelin</string>
+    <string name="togit">Minun github</string>
+    <string name="backtomain">Takaisin</string>
+    <string name="author">Kirjoittajan tiedot</string>
+</resources>

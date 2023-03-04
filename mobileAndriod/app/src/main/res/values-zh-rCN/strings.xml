@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">天气</string>
+    <string name="tampere">坦佩雷</string>
+    <string name="temperature">温度</string>
+    <string name="pressure">气压</string>
+    <string name="humidity">湿度</string>
+    <string name="overcast_clouds">多云</string>
+    <string name="realtime">实时温度</string>
+    <string name="min">最低温度</string>
+    <string name="max">最高温度</string>
+    <string name="feels">体感温度</string>
+    <string name="name">姓名： 吴晓敏</string>
+    <string name="email">电子邮箱</string>
+    <string name="phone">电话</string>
+    <string name="togit">前往GitHub</string>
+    <string name="backtomain">回到首页</string>
+    <string name="author">作者信息</string>
+</resources>
